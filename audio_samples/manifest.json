@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "locality": "Koramangala",
+    "sentence": "Haan, Koramangala mein rehta hoon haan Koramangala",
+    "condition": "clean",
+    "filename": "01_Koramangala_clean.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.43,
+    "sample_rate": 16000
+  },
+  {
+    "index": 2,
+    "locality": "Indiranagar",
+    "sentence": "Indiranagar se hoon. Ja rha hoon Indiranagar",
+    "condition": "street_noise",
+    "filename": "02_Indiranagar_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.50,
+    "sample_rate": 16000
+  },
+  {
+    "index": 3,
+    "locality": "Whitefield",
+    "sentence": "Whitefield! Whitefield ja rha hoon",
+    "condition": "phone_call",
+    "filename": "03_Whitefield_phone_call.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 2.94,
+    "sample_rate": 16000
+  },
+  {
+    "index": 4,
+    "locality": "Electronic City",
+    "sentence": "Mera office Electronic City mein hai",
+    "condition": "street_noise",
+    "filename": "04_Electronic_City_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 2.73,
+    "sample_rate": 16000
+  },
+  {
+    "index": 5,
+    "locality": "Marathahalli",
+    "sentence": "Marathahalli me jate hai chal!",
+    "condition": "rushed",
+    "filename": "05_Marathahalli_rushed.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.05,
+    "sample_rate": 16000
+  },
+  {
+    "index": 6,
+    "locality": "Jayanagar",
+    "sentence": "Jayanagar ja rha hai kyu?",
+    "condition": "clean",
+    "filename": "06_Jayanagar_clean.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 2.69,
+    "sample_rate": 16000
+  },
+  {
+    "index": 7,
+    "locality": "Rajajinagar",
+    "sentence": "Rajajinagar kaha hai?! ye kaha hai Rajajinagar?",
+    "condition": "street_noise",
+    "filename": "07_Rajajinagar_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 4.35,
+    "sample_rate": 16000
+  },
+  {
+    "index": 8,
+    "locality": "Hebbal",
+    "sentence": "Hebbal? Hebbal Ja rha hai? Tera Ghar Hebbal me hai?",
+    "condition": "phone_call",
+    "filename": "08_Hebbal_phone_call.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.80,
+    "sample_rate": 16000
+  },
+  {
+    "index": 9,
+    "locality": "Yelahanka",
+    "sentence": "Yelahanka ja rha hai kyu?",
+    "condition": "whispered",
+    "filename": "09_Yelahanka_whispered.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.54,
+    "sample_rate": 16000
+  },
+  {
+    "index": 10,
+    "locality": "Banashankari",
+    "sentence": "Tu Banashankari mein hai? Wo kaha hai?!",
+    "condition": "whispered",
+    "filename": "10_Banashankari_whispered.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.58,
+    "sample_rate": 16000
+  },
+  {
+    "index": 11,
+    "locality": "Byatarayanapura",
+    "sentence": "Byatarayanapura, ye kaha hai?",
+    "condition": "clean",
+    "filename": "11_Byatarayanapura_clean.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.88,
+    "sample_rate": 16000
+  },
+  {
+    "index": 12,
+    "locality": "Kadugondanahalli",
+    "sentence": "Haan Kadugondanahalli mein rehta hoon",
+    "condition": "street_noise",
+    "filename": "12_Kadugondanahalli_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.54,
+    "sample_rate": 16000
+  },
+  {
+    "index": 13,
+    "locality": "Hesaraghatta",
+    "sentence": "Oh! Tera ghar Hesaraghatta mein hai! Hesaraghatta mein hai! I see",
+    "condition": "phone_call",
+    "filename": "13_Hesaraghatta_phone_call.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 5.10,
+    "sample_rate": 16000
+  },
+  {
+    "index": 14,
+    "locality": "Chikkabanavara",
+    "sentence": "Chikkabanavara Kaha hai?",
+    "condition": "whispered",
+    "filename": "14_Chikkabanavara_whispered.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.18,
+    "sample_rate": 16000
+  },
+  {
+    "index": 15,
+    "locality": "Rajarajeshwarinagar",
+    "sentence": "Rajarajeshwarinagar! Achha achha, I see! Samjhe samjhe!",
+    "condition": "rushed",
+    "filename": "15_Rajarajeshwarinagar_rushed.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 5.12,
+    "sample_rate": 16000
+  },
+  {
+    "index": 16,
+    "locality": "Kothanur Dinne",
+    "sentence": "Kothanur Dinne Jana hai? Wo to bohot dur hai yaha se!",
+    "condition": "street_noise",
+    "filename": "16_Kothanur_Dinne_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 4.31,
+    "sample_rate": 16000
+  },
+  {
+    "index": 17,
+    "locality": "Thanisandra",
+    "sentence": "Thanisandra? Wo kaha hai? Mujhe nahi pata! Haan chal agar tujhe pata hai to!",
+    "condition": "street_noise",
+    "filename": "17_Thanisandra_street_noise.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 5.44,
+    "sample_rate": 16000
+  },
+  {
+    "index": 18,
+    "locality": "KR Puram",
+    "sentence": "KR Puram Chal! Haan",
+    "condition": "whispered",
+    "filename": "18_KR_Puram_phone_call.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.22,
+    "sample_rate": 16000
+  },
+  {
+    "index": 19,
+    "locality": "Peenya",
+    "sentence": "Peenya Chal Maje karenge! Haan! Bohot maja ayega!",
+    "condition": "phone_call",
+    "filename": "19_Peenya_phone_call.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.97,
+    "sample_rate": 16000
+  },
+  {
+    "index": 20,
+    "locality": "Yeshwanthpur",
+    "sentence": "Yeshwanthpur kafi dur hai yaha se!",
+    "condition": "rushed",
+    "filename": "20_Yeshwanthpur_rushed.wav",
+    "language": "Hindi/Hinglish",
+    "duration_s": 3.03,
+    "sample_rate": 16000
+  }
+]

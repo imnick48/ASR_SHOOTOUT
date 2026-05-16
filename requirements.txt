@@ -1,0 +1,8 @@
+openai-whisper
+httpx
+matplotlib
+numpy
+
+ipython
+torch
+torchaudio

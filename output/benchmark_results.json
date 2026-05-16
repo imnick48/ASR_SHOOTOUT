@@ -1,0 +1,880 @@
+{
+  "timestamp": "2026-05-16T07:43:29",
+  "n_samples": 20,
+  "results": [
+    {
+      "model": "Deepgram Nova-2",
+      "n_samples": 20,
+      "mean_wer": 1.08,
+      "mean_cer": 0.9389,
+      "locality_exact_accuracy": 0.0,
+      "locality_fuzzy_accuracy": 0.05,
+      "mean_locality_overlap": 0.0,
+      "per_sample": [
+        {
+          "index": 1,
+          "locality": "Koramangala",
+          "condition": "clean",
+          "reference": "Haan, Koramangala mein rehta hoon haan Koramangala",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 2,
+          "locality": "Indiranagar",
+          "condition": "street_noise",
+          "reference": "Indiranagar se hoon. Ja rha hoon Indiranagar",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 3,
+          "locality": "Whitefield",
+          "condition": "phone_call",
+          "reference": "Whitefield! Whitefield ja rha hoon",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 4,
+          "locality": "Electronic City",
+          "condition": "street_noise",
+          "reference": "Mera office Electronic City mein hai",
+          "hypothesis": "Merhaba Fez Elektronik Södime.",
+          "wer": 1.0,
+          "cer": 0.5556,
+          "locality_exact": false,
+          "locality_fuzzy": true,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 5,
+          "locality": "Marathahalli",
+          "condition": "rushed",
+          "reference": "Marathahalli me jate hai chal!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 6,
+          "locality": "Jayanagar",
+          "condition": "clean",
+          "reference": "Jayanagar ja rha hai kyu?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 7,
+          "locality": "Rajajinagar",
+          "condition": "street_noise",
+          "reference": "Rajajinagar kaha hai?! ye kaha hai Rajajinagar?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 8,
+          "locality": "Hebbal",
+          "condition": "phone_call",
+          "reference": "Hebbal? Hebbal Ja rha hai? Tera Ghar Hebbal me hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 9,
+          "locality": "Yelahanka",
+          "condition": "whispered",
+          "reference": "Yelahanka ja rha hai kyu?",
+          "hypothesis": "यह लहंका जा रहा है क्यों?",
+          "wer": 1.6,
+          "cer": 0.8333,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 10,
+          "locality": "Banashankari",
+          "condition": "whispered",
+          "reference": "Tu Banashankari mein hai? Wo kaha hai?!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 11,
+          "locality": "Byatarayanapura",
+          "condition": "clean",
+          "reference": "Byatarayanapura, ye kaha hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 12,
+          "locality": "Kadugondanahalli",
+          "condition": "street_noise",
+          "reference": "Haan Kadugondanahalli mein rehta hoon",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 13,
+          "locality": "Hesaraghatta",
+          "condition": "phone_call",
+          "reference": "Oh! Tera ghar Hesaraghatta mein hai! Hesaraghatta mein hai! I see",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 14,
+          "locality": "Chikkabanavara",
+          "condition": "whispered",
+          "reference": "Chikkabanavara Kaha hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 15,
+          "locality": "Rajarajeshwarinagar",
+          "condition": "rushed",
+          "reference": "Rajarajeshwarinagar! Achha achha, I see! Samjhe samjhe!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 16,
+          "locality": "Kothanur Dinne",
+          "condition": "street_noise",
+          "reference": "Kothanur Dinne Jana hai? Wo to bohot dur hai yaha se!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 17,
+          "locality": "Thanisandra",
+          "condition": "street_noise",
+          "reference": "Thanisandra? Wo kaha hai? Mujhe nahi pata! Haan chal agar tujhe pata hai to!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 18,
+          "locality": "KR Puram",
+          "condition": "whispered",
+          "reference": "KR Puram Chal! Haan",
+          "hypothesis": "K R पुरम चल. हां.",
+          "wer": 1.5,
+          "cer": 0.7222,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 19,
+          "locality": "Peenya",
+          "condition": "phone_call",
+          "reference": "Peenya Chal Maje karenge! Haan! Bohot maja ayega!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 20,
+          "locality": "Yeshwanthpur",
+          "condition": "rushed",
+          "reference": "Yeshwanthpur kafi dur hai yaha se!",
+          "hypothesis": "E as fãs por couve dura e asa.",
+          "wer": 1.5,
+          "cer": 0.6667,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        }
+      ],
+      "mean_latency_ms": 782.5,
+      "p95_latency_ms": 2305.6,
+      "condition_breakdown": {
+        "clean": {
+          "n": 3,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "phone_call": {
+          "n": 4,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "rushed": {
+          "n": 3,
+          "mean_wer": 1.1667,
+          "locality_exact_accuracy": 0.0
+        },
+        "street_noise": {
+          "n": 6,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "whispered": {
+          "n": 4,
+          "mean_wer": 1.275,
+          "locality_exact_accuracy": 0.0
+        }
+      },
+      "model_key": "deepgram",
+      "model_meta": {
+        "type": "API",
+        "cost_per_min_usd": 0.0059,
+        "streaming": true,
+        "languages": [
+          "hi",
+          "en",
+          "multi"
+        ]
+      }
+    },
+    {
+      "model": "Whisper Large-v3",
+      "n_samples": 20,
+      "mean_wer": 1.812,
+      "mean_cer": 0.851,
+      "locality_exact_accuracy": 0.0,
+      "locality_fuzzy_accuracy": 0.0,
+      "mean_locality_overlap": 0.0,
+      "per_sample": [
+        {
+          "index": 1,
+          "locality": "Koramangala",
+          "condition": "clean",
+          "reference": "Haan, Koramangala mein rehta hoon haan Koramangala",
+          "hypothesis": "कॉल मंगला मेरे तुम कॉल मंगला",
+          "wer": 1.7143,
+          "cer": 0.8776,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 2,
+          "locality": "Indiranagar",
+          "condition": "street_noise",
+          "reference": "Indiranagar se hoon. Ja rha hoon Indiranagar",
+          "hypothesis": "इंदिरनगर से हूँ जाराओं इंदिरनगर",
+          "wer": 1.5714,
+          "cer": 0.8605,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 3,
+          "locality": "Whitefield",
+          "condition": "phone_call",
+          "reference": "Whitefield! Whitefield ja rha hoon",
+          "hypothesis": "वाइट फिल्ड, वाइट फिल्ड मैं जा रहा हूँ",
+          "wer": 2.8,
+          "cer": 0.8788,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 4,
+          "locality": "Electronic City",
+          "condition": "street_noise",
+          "reference": "Mera office Electronic City mein hai",
+          "hypothesis": "मेरा ओफिस एलेक्ट्रोनिक सिटी में है",
+          "wer": 2.3333,
+          "cer": 0.8611,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 5,
+          "locality": "Marathahalli",
+          "condition": "rushed",
+          "reference": "Marathahalli me jate hai chal!",
+          "hypothesis": "मारा था हली में जाते हैं चल",
+          "wer": 1.8,
+          "cer": 0.8621,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 6,
+          "locality": "Jayanagar",
+          "condition": "clean",
+          "reference": "Jayanagar ja rha hai kyu?",
+          "hypothesis": "जयनागा जा रहा है, क्यों?",
+          "wer": 1.4,
+          "cer": 0.8333,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 7,
+          "locality": "Rajajinagar",
+          "condition": "street_noise",
+          "reference": "Rajajinagar kaha hai?! ye kaha hai Rajajinagar?",
+          "hypothesis": "रजाजी नगर कहा है ये कहा है रजाजी नगर",
+          "wer": 1.5714,
+          "cer": 0.8636,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 8,
+          "locality": "Hebbal",
+          "condition": "phone_call",
+          "reference": "Hebbal? Hebbal Ja rha hai? Tera Ghar Hebbal me hai?",
+          "hypothesis": "हिब्बल जा रहे हैं तेरा घर हिब्बल में है",
+          "wer": 1.4,
+          "cer": 0.8125,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 9,
+          "locality": "Yelahanka",
+          "condition": "whispered",
+          "reference": "Yelahanka ja rha hai kyu?",
+          "hypothesis": "कि यह लाभ का जाना चाहिए अ",
+          "wer": 2.2,
+          "cer": 0.8333,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 10,
+          "locality": "Banashankari",
+          "condition": "whispered",
+          "reference": "Tu Banashankari mein hai? Wo kaha hai?!",
+          "hypothesis": "तू बनाशंकारी में हैं, वो कहाँ हैं?",
+          "wer": 1.4286,
+          "cer": 0.8333,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 11,
+          "locality": "Byatarayanapura",
+          "condition": "clean",
+          "reference": "Byatarayanapura, ye kaha hai?",
+          "hypothesis": "प्यातरायानापुरा ये काहे",
+          "wer": 2.5,
+          "cer": 0.8889,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 12,
+          "locality": "Kadugondanahalli",
+          "condition": "street_noise",
+          "reference": "Haan Kadugondanahalli mein rehta hoon",
+          "hypothesis": "काडू गुंडना है लिख या है काई",
+          "wer": 2.2,
+          "cer": 0.8919,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 13,
+          "locality": "Hesaraghatta",
+          "condition": "phone_call",
+          "reference": "Oh! Tera ghar Hesaraghatta mein hai! Hesaraghatta mein hai! I see",
+          "hypothesis": "ओ तेरा घर हिसारा घटा में है, हिसारा घटा में है, I see",
+          "wer": 1.4545,
+          "cer": 0.7742,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 14,
+          "locality": "Chikkabanavara",
+          "condition": "whispered",
+          "reference": "Chikkabanavara Kaha hai?",
+          "hypothesis": "चिक्का बनावारा गाए",
+          "wer": 2.6667,
+          "cer": 0.913,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 15,
+          "locality": "Rajarajeshwarinagar",
+          "condition": "rushed",
+          "reference": "Rajarajeshwarinagar! Achha achha, I see! Samjhe samjhe!",
+          "hypothesis": "राजेश्वरी नगर अच्छा अच्छा आईसी समझे समझे",
+          "wer": 1.7143,
+          "cer": 0.8824,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 16,
+          "locality": "Kothanur Dinne",
+          "condition": "street_noise",
+          "reference": "Kothanur Dinne Jana hai? Wo to bohot dur hai yaha se!",
+          "hypothesis": "ओठानूर डाइनी जन्हाई यह तो बहुत दूराई यहाँ चे",
+          "wer": 1.5455,
+          "cer": 0.8039,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 17,
+          "locality": "Thanisandra",
+          "condition": "street_noise",
+          "reference": "Thanisandra? Wo kaha hai? Mujhe nahi pata! Haan chal agar tujhe pata hai to!",
+          "hypothesis": "दानी संदरा बोबाय दुजानी बदाए आ जाओ दुजा बदाए",
+          "wer": 1.3571,
+          "cer": 0.8194,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 18,
+          "locality": "KR Puram",
+          "condition": "whispered",
+          "reference": "KR Puram Chal! Haan",
+          "hypothesis": "कियारपुरम चलो",
+          "wer": 1.25,
+          "cer": 0.8333,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 19,
+          "locality": "Peenya",
+          "condition": "phone_call",
+          "reference": "Peenya Chal Maje karenge! Haan! Bohot maja ayega!",
+          "hypothesis": "पिनिया चल मज़े करेंगे हाँ बहुत मज़ा आएगा",
+          "wer": 1.5,
+          "cer": 0.8478,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 20,
+          "locality": "Yeshwanthpur",
+          "condition": "rushed",
+          "reference": "Yeshwanthpur kafi dur hai yaha se!",
+          "hypothesis": "यश्वन्त पर काफी दूर है यादर",
+          "wer": 1.8333,
+          "cer": 0.8485,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        }
+      ],
+      "mean_latency_ms": 2170.6,
+      "p95_latency_ms": 4654.8,
+      "condition_breakdown": {
+        "clean": {
+          "n": 3,
+          "mean_wer": 1.8714,
+          "locality_exact_accuracy": 0.0
+        },
+        "phone_call": {
+          "n": 4,
+          "mean_wer": 1.7886,
+          "locality_exact_accuracy": 0.0
+        },
+        "rushed": {
+          "n": 3,
+          "mean_wer": 1.7825,
+          "locality_exact_accuracy": 0.0
+        },
+        "street_noise": {
+          "n": 6,
+          "mean_wer": 1.7631,
+          "locality_exact_accuracy": 0.0
+        },
+        "whispered": {
+          "n": 4,
+          "mean_wer": 1.8863,
+          "locality_exact_accuracy": 0.0
+        }
+      },
+      "model_key": "whisper",
+      "model_meta": {
+        "type": "Open-source",
+        "cost_per_min_usd": 0.0,
+        "streaming": false,
+        "languages": [
+          "multi (99 lang)"
+        ]
+      }
+    },
+    {
+      "model": "Sarvam AI Saarika",
+      "n_samples": 20,
+      "mean_wer": 1.0,
+      "mean_cer": 1.0,
+      "locality_exact_accuracy": 0.0,
+      "locality_fuzzy_accuracy": 0.0,
+      "mean_locality_overlap": 0.0,
+      "per_sample": [
+        {
+          "index": 1,
+          "locality": "Koramangala",
+          "condition": "clean",
+          "reference": "Haan, Koramangala mein rehta hoon haan Koramangala",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 2,
+          "locality": "Indiranagar",
+          "condition": "street_noise",
+          "reference": "Indiranagar se hoon. Ja rha hoon Indiranagar",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 3,
+          "locality": "Whitefield",
+          "condition": "phone_call",
+          "reference": "Whitefield! Whitefield ja rha hoon",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 4,
+          "locality": "Electronic City",
+          "condition": "street_noise",
+          "reference": "Mera office Electronic City mein hai",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 5,
+          "locality": "Marathahalli",
+          "condition": "rushed",
+          "reference": "Marathahalli me jate hai chal!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 6,
+          "locality": "Jayanagar",
+          "condition": "clean",
+          "reference": "Jayanagar ja rha hai kyu?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 7,
+          "locality": "Rajajinagar",
+          "condition": "street_noise",
+          "reference": "Rajajinagar kaha hai?! ye kaha hai Rajajinagar?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 8,
+          "locality": "Hebbal",
+          "condition": "phone_call",
+          "reference": "Hebbal? Hebbal Ja rha hai? Tera Ghar Hebbal me hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 9,
+          "locality": "Yelahanka",
+          "condition": "whispered",
+          "reference": "Yelahanka ja rha hai kyu?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 10,
+          "locality": "Banashankari",
+          "condition": "whispered",
+          "reference": "Tu Banashankari mein hai? Wo kaha hai?!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 11,
+          "locality": "Byatarayanapura",
+          "condition": "clean",
+          "reference": "Byatarayanapura, ye kaha hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 12,
+          "locality": "Kadugondanahalli",
+          "condition": "street_noise",
+          "reference": "Haan Kadugondanahalli mein rehta hoon",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 13,
+          "locality": "Hesaraghatta",
+          "condition": "phone_call",
+          "reference": "Oh! Tera ghar Hesaraghatta mein hai! Hesaraghatta mein hai! I see",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 14,
+          "locality": "Chikkabanavara",
+          "condition": "whispered",
+          "reference": "Chikkabanavara Kaha hai?",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 15,
+          "locality": "Rajarajeshwarinagar",
+          "condition": "rushed",
+          "reference": "Rajarajeshwarinagar! Achha achha, I see! Samjhe samjhe!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 16,
+          "locality": "Kothanur Dinne",
+          "condition": "street_noise",
+          "reference": "Kothanur Dinne Jana hai? Wo to bohot dur hai yaha se!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 17,
+          "locality": "Thanisandra",
+          "condition": "street_noise",
+          "reference": "Thanisandra? Wo kaha hai? Mujhe nahi pata! Haan chal agar tujhe pata hai to!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 18,
+          "locality": "KR Puram",
+          "condition": "whispered",
+          "reference": "KR Puram Chal! Haan",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 19,
+          "locality": "Peenya",
+          "condition": "phone_call",
+          "reference": "Peenya Chal Maje karenge! Haan! Bohot maja ayega!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        },
+        {
+          "index": 20,
+          "locality": "Yeshwanthpur",
+          "condition": "rushed",
+          "reference": "Yeshwanthpur kafi dur hai yaha se!",
+          "hypothesis": "",
+          "wer": 1.0,
+          "cer": 1.0,
+          "locality_exact": false,
+          "locality_fuzzy": false,
+          "locality_overlap": 0.0
+        }
+      ],
+      "mean_latency_ms": 1694.5,
+      "p95_latency_ms": 2083.6,
+      "condition_breakdown": {
+        "clean": {
+          "n": 3,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "phone_call": {
+          "n": 4,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "rushed": {
+          "n": 3,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "street_noise": {
+          "n": 6,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        },
+        "whispered": {
+          "n": 4,
+          "mean_wer": 1.0,
+          "locality_exact_accuracy": 0.0
+        }
+      },
+      "model_key": "sarvam",
+      "model_meta": {
+        "type": "API",
+        "cost_per_min_usd": 0.004,
+        "streaming": true,
+        "languages": [
+          "hi",
+          "kn",
+          "ta",
+          "te",
+          "bn",
+          "indic"
+        ]
+      }
+    }
+  ]
+}
